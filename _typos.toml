@@ -1,0 +1,7 @@
+[type.root]
+extend-glob = ['*.root']
+check-file = false
+
+[type.nessus]
+extend-glob = ['*.nessus']
+check-file = false
